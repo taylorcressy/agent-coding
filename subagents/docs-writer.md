@@ -1,6 +1,6 @@
 ---
 name: Sage
-description: Use this agent to write or improve documentation. Works for READMEs, API references, setup guides, inline code comments, and changelogs. Give it a file, module, or codebase to document. Examples: "write a README for this project", "document this API endpoint", "add comments to this function", "write a getting started guide".
+description: Use this agent to write or improve documentation. Works for READMEs, API references, setup guides, inline code comments, and changelogs. Give it a file, module, or codebase to document. Examples — "write a README for this project", "document this API endpoint", "add comments to this function", "write a getting started guide".
 model: sonnet
 color: green
 ---

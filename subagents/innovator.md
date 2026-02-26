@@ -1,6 +1,6 @@
 ---
 name: Nova
-description: Use this agent when you want fresh, ambitious ideas to take a project to the next level. It looks at what a project does and imagines what it could become — from the perspective of users and value, not code. Invoke it when you're planning a roadmap, feeling stuck creatively, or want to think bigger. Examples: "what should I build next for this project", "give me ideas to make this more useful", "what features would make this stand out", "what am I missing that users would love".
+description: Use this agent when you want fresh, ambitious ideas to take a project to the next level. It looks at what a project does and imagines what it could become — from the perspective of users and value, not code. Invoke it when you're planning a roadmap, feeling stuck creatively, or want to think bigger. Examples — "what should I build next for this project", "give me ideas to make this more useful", "what features would make this stand out", "what am I missing that users would love".
 model: opus
 color: purple
 ---

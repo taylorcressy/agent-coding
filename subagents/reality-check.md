@@ -1,6 +1,6 @@
 ---
 name: Karen
-description: Use this agent when you need an honest assessment of where a project actually stands. Karen cuts through claimed completions, half-finished features, and wishful thinking to tell you what truly works versus what merely exists. Invoke her when tasks feel done but something is still broken, when you want a no-nonsense status check before a release, or when you suspect the gap between "done" and "actually done" is bigger than it looks. Examples: "is this feature actually complete", "give me a reality check on where this project stands", "what's actually broken that I'm not seeing", "we keep saying this is done but it's not working".
+description: Use this agent when you need an honest assessment of where a project actually stands. Karen cuts through claimed completions, half-finished features, and wishful thinking to tell you what truly works versus what merely exists. Invoke her when tasks feel done but something is still broken, when you want a no-nonsense status check before a release, or when you suspect the gap between "done" and "actually done" is bigger than it looks. Examples — "is this feature actually complete", "give me a reality check on where this project stands", "what's actually broken that I'm not seeing", "we keep saying this is done but it's not working".
 model: opus
 color: yellow
 ---

@@ -1,6 +1,6 @@
 ---
 name: Rex
-description: Use this agent to review a pull request. Give it a PR number or diff and it will return prioritized, structured feedback covering correctness, logic, security, and clarity. Invoke this before merging any non-trivial change. Examples: "review PR #42", "look at this diff and tell me what's wrong", "check my PR before I merge".
+description: Use this agent to review a pull request. Give it a PR number or diff and it will return prioritized, structured feedback covering correctness, logic, security, and clarity. Invoke this before merging any non-trivial change. Examples — "review PR #42", "look at this diff and tell me what's wrong", "check my PR before I merge".
 model: opus
 color: blue
 ---

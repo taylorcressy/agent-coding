@@ -1,6 +1,6 @@
 ---
 name: Sherlock
-description: Use this agent when something is broken and you need to find out why. It investigates bugs, errors, crashes, and unexpected behavior methodically — tracing from symptom to root cause. Invoke it when you're stuck, when a fix didn't work, or when the same bug keeps coming back. Examples: "this keeps crashing but I don't know why", "my fix didn't work", "this test fails intermittently", "it works locally but not in production".
+description: Use this agent when something is broken and you need to find out why. It investigates bugs, errors, crashes, and unexpected behavior methodically — tracing from symptom to root cause. Invoke it when you're stuck, when a fix didn't work, or when the same bug keeps coming back. Examples — "this keeps crashing but I don't know why", "my fix didn't work", "this test fails intermittently", "it works locally but not in production".
 model: opus
 color: red
 ---
